@@ -1,0 +1,18 @@
+{
+  "version": "0.8.2",
+  "pub_date": "2026-11-24T12:56:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZy9SZHNYZkZpNmlHN2pabFhOMWsrM1VyNHVydlVaZTJUMTNzbndmcHYxU1QrL284NEhmc0kwSlhyc1R0RGRaL2VaQXRWaytxQmx3cExVdVpkNFNzejAxS1pYdmRDNGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI0NzA2CWZpbGU6V29ya2J1ZGR5XzAuOC4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMgpIWVlwL1NsZXlBbjJsZ0hRbW4rZmtoZ25EamtMdGQyU28zRjVabkNLV2Z0TVJRcHRud3o1QXNuVGJwaHF2VU9OZ2dYMzZMNmdCYWFmZnhKajEvbW5BZz09Cg==",
+      "url": "https://raw.githubusercontent.com/anonoumusly-special-agent/fold-releases/main/0.8.2/windows-x86_64/Workbuddy_0.8.2_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZy9SZHNYZkZpNmhaRFlWNVY0TEliNlBBUjVBbVZNd1BsM04rcktUU1pUWTdWbFVhS2N1all6dkMxTkpQdCt3RTE1emU5TURSaS91aGRQNGRGc1RaNzlPVWdLSjI0N2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI0NDMzCWZpbGU6V29ya2J1ZGR5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjguMgpLZVlBa0piYnpybk1kOUppS0h3M25rR1NJbGxzMGFJSTIrY2xKTXM2V25VMThhR3JrRmVGNy81WnpOSHNpTkdSdUpPS0c0cDAvMGlCVjBhNzU5SHBDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/anonoumusly-special-agent/fold-releases/main/0.8.2/darwin-aarch64/Workbuddy.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZy9SZHNYZkZpNmhiUitVNFV2RUlsZTVHcnQwQWt1VXBteno2cC9zczFUcDRKSkE1bEVreVF1K05NUGc4RTFNcVlydnlvbG1WQ2FWR0t0Q0VjTmpDWGo5YTJoNXRRRGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI0NjI2CWZpbGU6V29ya2J1ZGR5LmFwcC50YXIuZ3oJdmVyc2lvbjowLjguMgo2NEFGOCtMUW8xbVkvK3ZJeXg5NjlNN0dCUWZwV1llTk8xRWQ1M2JvdmxaZGVmWnRNRXBtcFVCTDRuMmFSZXBtMmxOaGlDbFhhSkgvM1lIZVAyN1hDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/anonoumusly-special-agent/fold-releases/main/0.8.2/darwin-x86_64/Workbuddy.app.tar.gz"
+    }
+  }
+}
